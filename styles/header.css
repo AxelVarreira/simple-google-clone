@@ -1,0 +1,28 @@
+header{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+  margin: 15px;
+
+  font-size: 12px;
+}
+
+header .links{
+  margin-left: 15px;
+  text-decoration: none;
+  color: black;
+}
+
+header a .appMenu{
+  margin: 0 15px;
+}
+
+header .profile{
+  padding: 5px;
+  border-radius: 2px;
+}
+
+header .profile .profileImage{
+  border-radius: 100%;
+}
